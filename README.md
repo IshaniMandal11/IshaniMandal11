@@ -42,6 +42,6 @@ Created a responsive portfolio using HTML, CSS, and Material UI, deployed on Git
 
 📧 [ishanimandal11@gmail.com](mailto:ishanimandal11@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ishani-mandal-a1159b254/)  
-💻 [GitHub](https://github.com/IshaniMandal11)
+💻 [GitHub](https://github.com/IshaniMandal11)  
+🌐 [Portfolio Website](https://ishanimandal11.github.io/portfolio_website/)
 
----
